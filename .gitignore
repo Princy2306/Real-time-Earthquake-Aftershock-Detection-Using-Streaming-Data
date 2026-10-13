@@ -1,1 +1,4 @@
 spark/*.jar
+
+__pycache__/
+*.py[cod]
